@@ -1,0 +1,24 @@
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+    color: #ffff00;
+    margin-bottom: -10px;
+}
+
+p {
+    font-size: 15px;
+}
+
+html {
+    color: #ffffff;
+    text-align: left;
+    margin-left: 10%;
+    background-color: #343331;
+}
+
+a {
+    color: #ffffff;
+}
